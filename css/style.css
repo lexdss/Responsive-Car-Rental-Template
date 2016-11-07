@@ -13,7 +13,6 @@ section{
 	margin-top: 60px;
 }
 
-
 /*HEADER*/
 header .top-navbar{
 	height: 50px;
@@ -61,7 +60,7 @@ header .header-img{
 	text-align: center;
 }
 .selection .type > div{
-	padding: 20px 20px 0 20px;
+	padding: 20px 10px 0 10px;
 }
 .selection .type > div img{
 	width: 100%;
@@ -77,6 +76,7 @@ header .header-img{
 /*BRAND*/
 .brand-list{
 	text-align: center;
+	margin-bottom: 60px;
 }
 .brand .brand-item{
 	display: inline-block;
@@ -104,7 +104,12 @@ header .header-img{
 	width: 80px;
 }
 
-
+/*ADVENTAGES*/
+.advantages .advantages-item{
+	margin-bottom: 30px;
+	padding: 5px 15px;
+	text-align: center;
+}
 /*FOOTER*/
 footer{
 	background-color: #EEEEEE;
